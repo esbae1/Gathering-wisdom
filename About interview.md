@@ -1,12 +1,17 @@
 # From Emma Grede, cofounder of SKIMS.
 ## Present the solutions
 The whole point about the interview is not about the interviewee. It's about **how the problem can be solved**.
+
 ---
-## Do research like a strategist.Know:
+
+## Do research like a strategist.
 - How does the company make money? That is the business model of this company.
 - What is the competing landscape in this industry?
 - Understand the role's hidden pain.Ask questiions like "What problem made you open this role?" or "Where do people usually struggle?"
+
 ---
+
 ## Story flow should be like this: Context Actions Results
+
 ## Conclusion
 An interview is about demonstrating **I solve a problem**, **I create value**,**I move things forward**.
