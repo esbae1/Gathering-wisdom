@@ -11,7 +11,8 @@ The whole point about the interview is not about the interviewee. It's about **h
 
 ---
 
-## Story flow should be like this: Context Actions Results
+## Story flow should be like：
+Context Actions Results
 
 ## Conclusion
 An interview is about demonstrating **I solve a problem**, **I create value**,**I move things forward**.
