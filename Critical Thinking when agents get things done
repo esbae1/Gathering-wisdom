@@ -1,0 +1,9 @@
+## 认识
+1/ agent可以完成工作，但最终由人来负责
+2/ 让agent帮我发现我的unknown unknowns：https://claude.com/resources/articles/a-field-guide-to-claude-fable-finding-your-unknowns
+3/ prompt写不好就是没理解好问题
+
+## 方法
+1/ 任务结束前多问一句，“我有没有忽略的地方？” "Did I miss something?"
+2/ 把任务给agent之前先想一下任务的答案/结果
+3/ 用check给agent做任务闭环，同时也要问agent这项check检查了哪一项、没检查哪一项
